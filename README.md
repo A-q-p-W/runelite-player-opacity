@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Readme
+A plugin that allows you to change the opacity of your player and change blend modes, useful for PvP situations where you want to be able to see your opponent when they are on the same tile as you.
